@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpandey0408&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpandey0408" /> </p>
 
-- 🔭 I’m currently working on **Zomato indian restaurant EDA**
+- 🔭 I’m currently working on **Conversational Image Recognition Chatbot for SIH**
 
 - 🌱 I’m currently learning **Machine Learning**
 
