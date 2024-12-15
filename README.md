@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anurag Pandey</h1>
-<h3 align="center">A passionate Data science from India</h3>
+<h3 align="center">Data Aspirant!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragpandey0408&label=Profile%20views&color=0e75b6&style=flat" alt="anuragpandey0408" /> </p>
 
-- 🔭 I’m currently working on **Conversational Image Recognition Chatbot for SIH**
+- 🔭 I’m currently working on **Stock Analysis Project**
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
-- 📫 How to reach me **anurag077269@gmail.com**
+- 📫 How to reach me **anurag077269@gmail.com** , **+91 7089219061**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RNMbHprHUdU5Cn6XMuiHqf7AMyrRZmfR/view?usp=drive_link](https://drive.google.com/file/d/1RNMbHprHUdU5Cn6XMuiHqf7AMyrRZmfR/view?usp=drive_link)
+- 📄 Know about my experiences [https://www.linkedin.com/in/anurag-pandey-704479253/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
