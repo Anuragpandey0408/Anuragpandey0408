@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anurag077269@gmail.com** , **+91 7089219061**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anurag-pandey-704479253/]
+- 📄 Know about my experiences [Linkdin Profile](https://www.linkedin.com/in/anurag-pandey-704479253/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
