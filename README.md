@@ -7,7 +7,7 @@
 
 - 🔭 I’m recently completed  **FER2013 : Facial Emotion Recognition Project**
 
-- 🌱 I’m currently learning **Machine Learning & Data Structure and Algorithms**
+- 🌱 I’m currently learning **Fundamental of Machine Learning & Data Structure and Algorithms**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
